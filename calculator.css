@@ -1,0 +1,41 @@
+button{
+    width: 120px;
+    height: 100px;
+    background-color: rebeccapurple;
+    color: beige;
+    border-radius: 15%;
+    font-size: 30px;
+}
+
+button:hover {
+    background-color: purple;
+}
+body {
+position: absolute;
+top: 50%; left: 40%;
+transform: translate(0, -50%);
+border: 5px solid black;
+}
+
+.DDD{
+    font-size: 35px;
+
+}
+
+}
+
+textarea{
+    font
+}
+
+#D1{
+  background-color: rgb(170, 51, 106); 
+}
+
+.DD{
+    background-color: purple;
+}
+
+.DD:hover{
+    background-color: rebeccapurple;
+}
